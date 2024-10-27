@@ -1,0 +1,16 @@
+equipment_id,equipment_name,equipment_type
+1,Sutures,Reusable
+2,Scalpel Blades,Disposable
+3,Surgical Gloves,Disposable
+4,Surgical Drapes,Disposable
+5,Suction Tubes,Disposable
+6,Electrocautery Pens,Reusable
+7,Surgical Sponges,Reusable
+8,Endotracheal Tubes,Reusable
+9,Needles,Disposable
+10,Anesthesia Masks,Disposable
+11,Scalpel Handles,Disposable
+12,Hemostatic Forceps,Disposable
+13,Scissors,Reusable
+14,Tray,Disposable
+15,Bipolar Forceps,Disposable
